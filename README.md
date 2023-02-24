@@ -1,5 +1,3 @@
-![wallpaperbetter com_1920x1080 (12)](https://user-images.githubusercontent.com/84198092/221168821-647ac0f3-392c-49dd-9d56-495146692f5d.jpg)
-<a href="[URL_REDIRECT](https://user-images.githubusercontent.com/84198092/221168821-647ac0f3-392c-49dd-9d56-495146692f5d.jpg)" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://user-images.githubusercontent.com/84198092/221168821-647ac0f3-392c-49dd-9d56-495146692f5d.jpg)" height="50" /></a>
 <h1 align="center">Hi 👋, I'm Fatma</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
