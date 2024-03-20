@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fatma</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ftmd909?tab=repositories](https://github.com/ftmd909?tab=repositories)
 
-- 📫 How to reach me **fatmademir0900@gmail.com**
+- 📫 How to reach me **fatmademir.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
